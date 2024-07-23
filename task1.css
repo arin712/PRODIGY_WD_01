@@ -1,0 +1,118 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+  }
+
+  header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  nav li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+
+  nav a:hover {
+    color: #08de7a;
+  }
+
+  /* Style for scrolled menu (modify colors as desired) */
+  .scrolled {
+    background-color: #01e56f;
+  }
+
+h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 15px;
+}
+
+h3 {
+  font-size: 1.3rem;
+  margin-bottom: 5px;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+.insta{
+  font-size: 14px;
+}
+a{
+  font-family:Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+#about-me{
+  border-radius: 4px;
+
+}
+.insta{
+  font-size: 35px;
+
+  align-items: center;
+}
